@@ -300,7 +300,7 @@ function Generator() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-5xl font-bold text-white mb-2 tracking-tight">Blooket Question Generator</h1>
-          <p className="text-blue-200 text-lg">Create amazing question sets for your Blooket games</p>
+          <p className="text-blue-200 text-lg">Easier set creation, by Peter Buonaiuto</p>
         </div>
 
         <div className="bg-white/10 backdrop-blur-md rounded-t-2xl p-4 border border-white/20">
